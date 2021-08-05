@@ -1,0 +1,64 @@
+body {
+  color: white;
+  font-family: "New Tegomin", serif;
+}
+.navbar-toggler {
+  margin: 0 auto;
+}
+.bg-dark {
+  background-color: black !important;
+}
+h2 {
+  text-align: center;
+  padding-bottom: 0px;
+  margin: 0px;
+}
+.navbar-brand {
+  color: white;
+}
+.navbar-brand:hover {
+  color: gray;
+}
+.mr-sm-2 {
+  margin-right: 10px;
+  margin-left: 12px;
+}
+.button1 {
+  border: 3px solid white;
+  border-radius: 4px;
+}
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border: 5px solid grey;
+  padding: 20px;
+  background: linear-gradient(black, #111);
+}
+td {
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border: 1px solid grey;
+}
+th {
+  padding-top: 20px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border: 1px solid grey;
+}
+tr {
+  border: 1px solid white !important;
+}
+#day {
+  border-radius: 4px;
+  font-size: smaller;
+  border: 1px solid white;
+}
+#flex {
+  text-align: center;
+}
+#small {
+  font-size: 70%;
+}
